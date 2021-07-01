@@ -39,7 +39,7 @@ span {
 }
 
 .step1-image {
-  background-image: url(img/flow01.png);
+  background-image: url(flow01.png);
 }
 
 .step2 {
@@ -47,11 +47,11 @@ span {
 }
 
 .step2-image {
-  background-image: url(img/flow02.png);
+  background-image: url(flow02.png);
 }
 
 .step3-image {
-  background-image: url(img/flow03.png);
+  background-image: url(flow03.png);
 }
 
 footer {
